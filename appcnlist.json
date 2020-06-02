@@ -6,9 +6,9 @@
       "name": "Chrome",
       "version": "78.0.23",
       "type": "Browser",
-	  "url": "http:/keyasha.com/1/imag1.png"
-	  "org": "US",
-	  "recom": 1
+       "url": "http:/keyasha.com/1/imag1.png",
+       "org": "US",
+       "recom": 1
     },
     {
      "appId": 2,
@@ -16,9 +16,9 @@
       "name": "Chrome2",
       "version": "78.0.23",
       "type": "Browser",
-	  "url": "http:/keyasha.com/1/imag1.png"
-	  "org": "US",
-	  "recom": 1
+      "url": "http:/keyasha.com/1/imag1.png",
+      "org": "US",
+      "recom": 1
     },
     {
       "appId": 3,
@@ -26,9 +26,9 @@
       "name": "Chrome3",
       "version": "78.0.23",
       "type": "Browser",
-	  "url": "http:/keyasha.com/1/imag1.png"
-	  "org": "US",
-	  "recom": 1
+      "url": "http:/keyasha.com/1/imag1.png",
+      "org": "US",
+      "recom": 1
     },
     {
       "appId": 4,
@@ -36,9 +36,9 @@
       "name": "Chrome4",
       "version": "78.0.23",
       "type": "Browser",
-	  "url": "http:/keyasha.com/1/imag1.png"
-	  "org": "CN",
-	  "recom": 1
+      "url": "http:/keyasha.com/1/imag1.png",
+      "org": "CN",
+      "recom": 1
     }
   ]
 }

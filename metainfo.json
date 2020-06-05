@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "vid": "1",
+    "tagmsg": "Chrome",
+    "splashmsg": "com.sec.browser",
+    "button1": "communication",
+    "button2": "US",
+    "share": "com.sec.browser",
+    "contactus": "communication",
+    "rateus": "US",
+    "about": "com.sec.browser",
+    "policy": "communication",
+    "extra": "US"
+  },
+
+  "recomnds": [
+    {
+      "id": "11",
+      "name": "Test1",
+      "pkg": "com.sec.Test1",
+      "type": "browser",
+      "contry": "US",
+      "url": "http://keyasha.com/100/",
+      "version": "76.09"
+
+    },
+    {
+      "id": "12",
+      "name": "Test2",
+      "pkg": "com.sec.test2",
+      "type": "comunication",
+      "contry": "US",
+      "url": "http://keyasha.com/",
+      "version": "76.09"
+    },
+    {
+      "id": "3",
+      "name": "Chrome3",
+      "pkg": "com.sec.browser3",
+      "type": "travel2",
+      "contry": "US",
+      "url": "http://keyasha.com/100/100/",
+      "version": "76.09"
+    }
+  ]
+
+}

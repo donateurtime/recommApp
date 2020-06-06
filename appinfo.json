@@ -1,0 +1,77 @@
+{
+  "apps": [
+    {
+      "id": "1",
+      "name": "ICICI Direct",
+      "pkg": "com.csam.icici.bank.imobile",
+      "origin": "IN",
+      "type": "finance",
+      "subtype": "bank"
+    },
+    {
+      "id": "2",
+      "name": "MoneyControl",
+      "pkg": "com.divum.MoneyControl",
+      "origin": "IN",
+      "type": "finance",
+      "subtype": "news"
+    },
+    {
+      "id": "3",
+      "name": "Google Play",
+      "pkg": "com.google.android.apps.paisa.user",
+      "origin": "US",
+      "type": "finance",
+      "subtype": "payment"
+    },
+    {
+      "id": "4",
+      "name": "Phone Pe",
+      "pkg": "com.phonepe.app",
+      "origin": "IN",
+      "type": "finance",
+      "subtype": "payment"
+    },
+    {
+      "id": "5",
+      "name": "Amazon Shoping",
+      "pkg": "in.amazon.msop.android.shopping",
+      "origin": "US",
+      "type": "business",
+      "subtype": "shopping"
+    },
+    {
+      "id": "6",
+      "name": "Telegram",
+      "pkg": "org.telegram.messanger",
+      "origin": "IN",
+      "type": "social",
+      "subtype": "messanger"
+    },
+    {
+      "id": "7",
+      "name": "Hello",
+      "pkg": "app.buzz.share",
+      "origin": "CN",
+      "type": "social",
+      "subtype": "media"
+    },
+    {
+      "id": "8",
+      "name": "TikTok",
+      "pkg": "com.zhiliaoapp.musically",
+      "origin": "CN",
+      "type": "social",
+      "subtype": "music"
+    },
+    {
+      "id": "9",
+      "name": "Instagram",
+      "pkg": "com.instagram.android",
+      "origin": "CN",
+      "type": "social",
+      "subtype": "Media"
+    }
+  ]
+
+}

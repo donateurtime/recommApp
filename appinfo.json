@@ -1,0 +1,32 @@
+{
+  "apps": [
+    {
+      "id": "1",
+      "name": "Chrome",
+      "pkg": "com.sec.browser",
+      "type": "browser",
+      "contry": "US",
+      "url": "http://lorempixel.com/100/100/",
+      "version": "76.09"
+
+    },
+    {
+      "id": "2",
+      "name": "Chrome2",
+      "pkg": "com.sec.browser",
+      "type": "comunication",
+      "contry": "US",
+      "version": "76.09"
+    },
+    {
+      "id": "3",
+      "name": "Chrome3",
+      "pkg": "com.sec.browser3",
+      "type": "travel",
+      "contry": "US",
+      "url": "http://lorempixel.com/100/100/",
+      "version": "76.09"
+    }
+  ]
+
+}
